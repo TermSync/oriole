@@ -42,7 +42,13 @@ $ gem install oriole
 ```
 
 ## Contributing
-Initial contributions by Esker, Inc.
+Initial contributions by Esker, Inc. Feel free to fork, create a PR, etc.
+
+## Tests
+To run automated tests, clone the repo. In the repo, run this from the command line:
+```bash
+$ bin/test
+```
 
 ## License
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
