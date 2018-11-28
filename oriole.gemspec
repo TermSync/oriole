@@ -7,8 +7,8 @@ require "oriole/version"
 Gem::Specification.new do |s|
   s.name        = "oriole"
   s.version     = Oriole::VERSION
-  s.authors     = ["nbdavies"]
-  s.email       = ["nbdavies@gmail.com"]
+  s.authors     = ["Nick Davies"] # Tag yourself
+  s.email       = ["nick.davies@esker.com"]
   s.homepage    = "https://www.github.com/termsync/oriole"
   s.summary     = "Allows cleaner syntax for simple OR conjunctions in ActiveRecord queries"
   s.description = <<~HEREDOC
